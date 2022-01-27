@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/hakan/Desktop/Monogame/running-out-of-time/Content/File.spritefont","C:/Users/hakan/Desktop/Monogame/running-out-of-time/Content/bin/DesktopGL/File.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0,583584
+"C:/Users/hakan/Desktop/Monogame/running-out-of-time/Content/player.png","C:/Users/hakan/Desktop/Monogame/running-out-of-time/Content/bin/DesktopGL/player.xnb","TextureProcessor","Texture2DContent",248,1109,0,3461191
+"C:/Users/hakan/Desktop/Monogame/running-out-of-time/Content/player_walk.png","C:/Users/hakan/Desktop/Monogame/running-out-of-time/Content/bin/DesktopGL/player_walk.xnb","TextureProcessor","Texture2DContent",296,2133,0,0267073
